@@ -4,6 +4,8 @@ logging:
 server:
   port: 6660
 spring:
+#  profiles:
+#    active: native
   application:
     name: vm-config-server
     index: ${random.long}
@@ -13,7 +15,9 @@ spring:
         git:
           uri: https://github.com/Caixinyang/vm-config.git
           searchPaths: config
-          username: caixinyang
+#          uri: https://github.com/Caixinyang/vm-config.git
+#          searchPaths: config
+          username: Caixinyang
           password: cxy1995625qwe
           basedir:
             target/config  #git的配置文件会加载到本地的目录
@@ -21,10 +25,10 @@ spring:
       trace:
         enabled: true
   rabbitmq:
-    host: 39.108.231.231
+    host: 127.0.0.1
     port: 5672
-    username: root
-    password: 123
+    username: admin
+    password: admin
 management:
   security:
     enabled: false
