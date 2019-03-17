@@ -1,0 +1,5 @@
+vm:
+  eureka:
+    listOfLocal: http://127.0.0.1:1110/eureka/,http://127.0.0.1:1111/eureka/
+    listOfDev: http://devServer00:1110/eureka/,http://devServer01:1111/eureka/
+    listOfProd: http://prodServer00:1110/eureka/,http://prodServer01:1111/eureka/

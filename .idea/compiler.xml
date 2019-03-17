@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vm-auth-admin" />
+        <module name="vm-auth-redis" />
+        <module name="vm-auth-user" />
+        <module name="vm-base" />
+        <module name="vm-config" />
+        <module name="vm-config-server" />
+        <module name="vm-controller-helper" />
+        <module name="vm-dao" />
+        <module name="vm-eureka" />
+        <module name="vm-gateway" />
+        <module name="vm-global-remote-config" />
+        <module name="vm-mq" />
+        <module name="vm-provider-admin" />
+        <module name="vm-provider-movie" />
+        <module name="vm-provider-src" />
+        <module name="vm-provider-user" />
+        <module name="vm-provider-ws" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

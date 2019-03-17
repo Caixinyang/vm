@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfb1a10a-769d-43c5-998e-42a691140808" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/vm-global-remote-config/target/" />
+    <ignored path="$PROJECT_DIR$/vm-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/vm-auth-redis/target/" />
+    <ignored path="$PROJECT_DIR$/vm-auth-admin/target/" />
+    <ignored path="$PROJECT_DIR$/vm-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/vm-dao/target/" />
+    <ignored path="$PROJECT_DIR$/vm-auth-user/target/" />
+    <ignored path="$PROJECT_DIR$/vm-mq/target/" />
+    <ignored path="$PROJECT_DIR$/vm-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/vm-provider-ws/target/" />
+    <ignored path="$PROJECT_DIR$/vm-base/target/" />
+    <ignored path="$PROJECT_DIR$/vm-provider-src/target/" />
+    <ignored path="$PROJECT_DIR$/vm-config/target/" />
+    <ignored path="$PROJECT_DIR$/vm-provider-movie/target/" />
+    <ignored path="$PROJECT_DIR$/vm-controller-helper/target/" />
+    <ignored path="$PROJECT_DIR$/vm-provider-user/target/" />
+    <ignored path="$PROJECT_DIR$/vm-provider-admin/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm-config-server/target/classes/bootstrap-dev00.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vm-config-server/target/classes/bootstrap-local00.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm-auth-redis/target/classes/com/vm/auth/redis/repository/RedisRepository.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm-base/src/main/resources/gmx.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm-config-server/src/main/resources/bootstrap-local00.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mintty.exe.stackdump">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm-provider-user/src/test/resources/gmx.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm-config/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm-config-server/src/main/java/com/vm/ConfigApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm-base/src/main/resources/generatorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2440">
+              <caret line="200" column="40" lean-forward="true" selection-start-line="200" selection-start-column="40" selection-end-line="200" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>d:</find>
+      <find>localServer01</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vm-config-server/target/classes/bootstrap-dev00.yml" />
+        <option value="$PROJECT_DIR$/vm-config-server/target/classes/bootstrap-local00.yml" />
+        <option value="$PROJECT_DIR$/vm-base/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/vm-config-server/src/main/resources/bootstrap-local00.yml" />
+        <option value="$PROJECT_DIR$/mintty.exe.stackdump" />
+        <option value="$PROJECT_DIR$/vm-provider-user/src/test/resources/gmx.properties" />
+        <option value="$PROJECT_DIR$/vm-config-server/src/main/resources/bootstrap-dev00.yml" />
+        <option value="$PROJECT_DIR$/vm-provider-admin/src/test/resources/gmx.properties" />
+        <option value="$PROJECT_DIR$/vm-provider-movie/src/test/resources/gmx.properties" />
+        <option value="$PROJECT_DIR$/vm-dao/src/main/resources/gmx.properties" />
+        <option value="$PROJECT_DIR$/vm-base/src/main/resources/gmx.properties" />
+        <option value="$PROJECT_DIR$/vm-provider-src/src/test/resources/gmx.properties" />
+        <option value="$PROJECT_DIR$/vm-eureka/src/main/resources/bootstrap-local00.yml" />
+        <option value="$PROJECT_DIR$/vm-eureka/src/main/resources/bootstrap-dev00.yml" />
+        <option value="$PROJECT_DIR$/vm-config/src/main/resources/bootstrap.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="254" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-auth-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-provider-src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-provider-src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-provider-src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-provider-src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-provider-src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-provider-src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm-engine-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vm-provider-src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552807888069" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConfigApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vm.ConfigApplication" />
+      <module name="vm-config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConfigApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfb1a10a-769d-43c5-998e-42a691140808" name="Default Changelist" comment="" />
+      <created>1552802987070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552802987070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1924" height="1044" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vm-provider-src/src/main/java/com/vm/ProviderSrcApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-provider-src/src/main/resources/bootstrap-dev00.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-provider-src/src/main/resources/bootstrap-local00.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-config-server/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-auth-redis/src/main/java/com/vm/auth/redis/repository/RedisRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12636">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-config/target/classes/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-auth-redis/readme.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-config-server/target/classes/com/vm/ConfigApplication.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-config-server/target/classes/bootstrap-dev00.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-auth-redis/target/classes/com/vm/auth/redis/repository/RedisRepository.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-config-server/src/main/resources/bootstrap-local00.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mintty.exe.stackdump">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-provider-user/src/test/resources/gmx.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-config/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-config-server/src/main/java/com/vm/ConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-base/src/main/resources/gmx.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-base/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2440">
+          <caret line="200" column="40" lean-forward="true" selection-start-line="200" selection-start-column="40" selection-end-line="200" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm-config-server/target/classes/bootstrap-local00.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
