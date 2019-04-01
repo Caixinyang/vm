@@ -13,12 +13,13 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Caixinyang/vm-config/
-          searchPaths: config
-          username: Caixinyang
-          password: cxy1995625qwe
-          basedir:
-            target/config  #git的配置文件会加载到本地的目录
+          uri: https://github.com/Caixinyang/vm-config
+#          searchPaths: config
+#          label: master
+#          username: Caixinyang
+#          password: cxy1995625qwe
+#          basedir:
+#            target/config  #git的配置文件会加载到本地的目录
     bus:
       trace:
         enabled: true

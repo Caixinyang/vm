@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <parent>
-        <artifactId>vm-engine</artifactId>
         <groupId>com.vm</groupId>
+        <artifactId>vm-engine</artifactId>
         <version>${project.version}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -61,7 +61,7 @@
             <plugin>
                 <groupId>com.spotify</groupId>
                 <artifactId>docker-maven-plugin</artifactId>
-                <version>0.4.13</version>
+                <version>1.0.0</version>
                 <executions>
                     <execution>
                         <id>build-image</id>
@@ -73,7 +73,8 @@
 
                 </executions>
                 <configuration>
-                    <serverId>docker-aliyun</serverId>
+                    <dockerHost>http://139.159.203.203:2375</dockerHost>
+                    <serverId>huawei-docker-registry</serverId>
                     <pushImage>true</pushImage>
                     <registryUrl>${docker.registry}</registryUrl>
                     <dockerDirectory>${project.basedir}/src/main/docker</dockerDirectory>

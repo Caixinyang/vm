@@ -153,7 +153,8 @@
 
                 </executions>
                 <configuration>
-                    <serverId>docker-aliyun</serverId>
+                    <dockerHost>http://139.159.203.203:2375</dockerHost>
+                    <serverId>huawei-docker-registry</serverId>
                     <pushImage>true</pushImage>
                     <registryUrl>${docker.registry}</registryUrl>
                     <dockerDirectory>${project.basedir}/src/main/docker</dockerDirectory>

@@ -99,7 +99,7 @@ public class IpHashRule extends AbstractLoadBalancerRule {
     }
 
     public static void main(String[] args) {
-        String localIp = "127.0.0.1";
+        String localIp = "139.159.203.203";
         System.out.println(Math.abs((localIp).hashCode()) % 5);
     }
 
